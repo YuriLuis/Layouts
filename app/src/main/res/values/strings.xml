@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LayoutsFabiano</string>
+    <string name="done">Done:</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="status">Status</string>
+    <string name="not_done">Not Done</string>
+    <string name="title">Title</string>
+    <string name="priorit">Priorit:</string>
+    <string name="low">Low</string>
+</resources>
